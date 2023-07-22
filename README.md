@@ -6,19 +6,33 @@
  </p> 
  
  <h2 align="center">Contact:</h2> 
-[<img align="left" alt="telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />](@TEMIK1223)
-[<img align="left" alt="WhatsAap" width="40px" src="![image](https://github.com/1223Daniil/1223Daniil/assets/113941359/c30e38e7-5c38-4572-9ba1-e16f855db58a)" />](https://wa.me/89950048204)
-[<img align="left" alt="WhatsAap" width="40px" src="![image](https://github.com/1223Daniil/1223Daniil/assets/113941359/876efb33-119a-4208-9cf1-31558ae50dec)" />](https://vk.com/id704701802)https://vk.com/id704701802)
+ <p align="center">
+<a  align="center" href="https://t.me/TEMIK1223"><img src="https://www.svgrepo.com/show/452115/telegram.svg" width="40px" height="40px"></a>
+<a  align="center" href="https://vk.com/id704701802"><img src="https://www.svgrepo.com/show/349554/vk.svg" width="40px" height="40px"></a>
+<a  align="center" href="https://wa.me/89950048204"><img src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" width="40px" height="40px"></a>
+ </p>
+
+
+
 
  <h2 align="center">🛠️ Tech Stack:</h2> 
- <p align="center"> 
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> 
-   <img src="https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
-   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> 
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> 
-   <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"> 
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
-   <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"> 
- </p> 
+<img  align="left" src="https://www.svgrepo.com/show/452228/html-5.svg" width="40px" height="40px" alt="HTML" > 
+   <img  align="left" src="https://www.svgrepo.com/show/452185/css-3.svg" width="40px" height="40px" alt="CSS"> 
+   <img  align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" width="40px" height="40px" alt="JavaScript"> 
+   <img  align="left" src="https://www.svgrepo.com/show/374067/scss2.svg" width="40px" height="40px" alt="Scss" style="margin-right: 50;"> 
+   <img  align="left" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" width="40px" height="40px" alt="Node JS"> 
+    <img  align="left" src="https://www.svgrepo.com/show/452210/git.svg" width="40px" height="40px" alt="Git"> 
+    <img  align="left" src="https://www.svgrepo.com/show/373653/handlebars.svg" width="40px" height="40px" alt="handlebars"> 
+  <img  align="left" src="https://www.svgrepo.com/show/475654/github-color.svg" width="40px" height="40px" alt="GitHub"> 
+    <img  align="left" src="https://www.svgrepo.com/show/331488/mongodb.svg" width="40px" height="40px" alt="MongoDB"> 
+    <img  align="left" src="https://www.svgrepo.com/show/303494/vue-9-logo.svg" width="40px" height="40px" alt="Vue"> 
+  <img  align="left" src="https://www.svgrepo.com/show/452202/figma.svg" width="40px" height="40px" alt="Figma"> 
+    <img  align="left" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/axios-icon.png" width="40px" height="40px" alt="Axios"> 
+     <img  align="left" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" width="40px" height="40px" alt="Vuex"> 
+     <img  align="left" src="https://user-images.githubusercontent.com/7110136/29002858-a09570d2-7ab4-11e7-8faa-5dd6d4458b0d.png" width="40px" height="40px" alt="Vue-router"> 
+  <img  align="left" src="https://www.svgrepo.com/show/354552/webpack.svg" width="40px" height="40px" alt="webpack"> 
+   <img  align="left" src="https://www.svgrepo.com/show/354128/npm.svg" width="40px" height="40px" alt="npm">
+
+    
+ 
+ 
