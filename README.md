@@ -23,7 +23,7 @@
    <img  align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" width="40px" height="40px" alt="JavaScript"> 
    <img  align="left" src="https://www.svgrepo.com/show/374067/scss2.svg" width="40px" height="40px" alt="Scss" style="margin-right: 50;"> 
    <img  align="left" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" width="40px" height="40px" alt="Node JS"> 
-    <img  align="left" src="https://www.svgrepo.com/show/452210/git.svg" width="40px" height="40px" alt="Git"> 
+    <img  align="left" src="https://www.svgrepo.com/show/452210/git.svg" width="40px" height="40px" alt="Git">  
      <br>
     <br>
     <br>
@@ -33,7 +33,7 @@
      <img  align="left" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg" width="40px" height="40px" alt="Nuxt"> 
       <img  align="left" src="https://www.svgrepo.com/show/452092/react.svg" width="40px" height="40px" alt="React">  
       <img  align="left" src="https://www.svgrepo.com/show/452093/redux.svg" width="40px" height="40px" alt="Redux"> 
-      <img  align="left" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40px" height="40px" alt="Next JS"> 
+      <img  align="left" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="40px" height="40px" alt="Next JS"> 
       <img  align="left" src="https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" width="25px" height="40px" alt="Axios"> 
  <br>
  <br> 
