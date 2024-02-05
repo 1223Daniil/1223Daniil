@@ -2,7 +2,7 @@
 
  <p align="center"> 
   👋 Hi! My name is Daniil. 
-  I am an experienced developer specialising in JavaScript programming language and Vue framework. I also have experience with Mongo DB database and Node JS backend technology. I am familiar with Git, Axios, HTML5, CSS3,       ES6, CORS, Sass and GitHub. All these allow me to build high quality and efficient web applications. I am always up for new challenges and strive to constantly develop my skills and knowledge.
+  I am an experienced developer specialising in JavaScript programming language and Vue framework. I also have experience with Mongo DB database and Node JS backend technology. I am familiar with Git, Axios, HTML5, CSS3,       ES6, CORS, Sass and GitHub. All these allow   me to build high quality and efficient web applications. I am always up for new challenges and strive to constantly develop my skills and knowledge.
  </p> 
  <p>
  <h2  align="left">🌐 Contact:</h2> 
@@ -15,9 +15,8 @@
 <br>
 <br>
 
-
-
- <h2  align="left">🛠️ Tech Stack:</h2> 
+  <img src="https://github.com/1223Daniil/1223Daniil/assets/113941359/6d550234-a23a-4cea-b4fa-4d110db317d8" alt="CSS">
+<h2  align="left">🛠️ Tech Stack:</h2> 
 <img  align="left" src="https://www.svgrepo.com/show/452228/html-5.svg" width="40px" height="40px" alt="HTML" > 
    <img  align="left" src="https://www.svgrepo.com/show/452185/css-3.svg" width="40px" height="40px" alt="CSS"> 
    <img  align="left" src="https://www.svgrepo.com/show/349419/javascript.svg" width="40px" height="40px" alt="JavaScript"> 
