@@ -32,7 +32,7 @@
      <img  align="left" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg" width="40px" height="40px" alt="Nuxt"> 
       <img  align="left" src="https://www.svgrepo.com/show/452092/react.svg" width="40px" height="40px" alt="React">  
       <img  align="left" src="https://www.svgrepo.com/show/452093/redux.svg" width="40px" height="40px" alt="Redux"> 
-      <img  align="left" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="40px" height="40px" alt="Next JS"> 
+      <img  align="left" src="https://github.com/user-attachments/assets/6cdca0e8-3a78-4cba-b33a-1abfb3d5f111" width="40px" height="40px" alt="Next JS"> 
       <img  align="left" src="https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" width="25px" height="40px" alt="Axios"> 
  <br>
  <br> 
